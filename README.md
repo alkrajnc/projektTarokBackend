@@ -1,2 +1,0 @@
-# projektTarokBackend
-Backend
